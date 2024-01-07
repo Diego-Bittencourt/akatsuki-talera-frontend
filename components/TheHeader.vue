@@ -1,8 +1,8 @@
 <template>
     <header>
-        <h1>AKATSUKI</h1>
+        <h1 class="font-breath text-fore">AKATSUKI</h1>
         <nav>
-            <ul>
+            <ul class="font-breathe">
                 <li>
                     Events
                 </li>
