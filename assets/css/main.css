@@ -6,3 +6,17 @@
     font-family: 'Breath of fire';
     src: url("fonts/Breathe_Fire.otf") format("opentype");
   }
+
+@layer utilities {
+  .shadow-text-fore {
+    text-shadow: 0px 0px 2px #A8443A;
+  }
+
+  .shadow-text-front {
+    text-shadow: 0px 0px 2px #E8D3B6;
+  }
+}
+
+.shadow-text-front {
+  text-shadow: 0px 0px 2px #E8D3B6;
+}

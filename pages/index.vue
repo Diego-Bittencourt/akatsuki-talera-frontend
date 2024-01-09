@@ -1,3 +1,11 @@
 <template>
-    <h1>THIS IS INDEX PAGE</h1>
+    <OnlinePlayers />
 </template>
+
+<script setup lang="ts">
+import OnlinePlayers from '../components/players/OnlineList.vue'
+
+
+
+
+</script>
